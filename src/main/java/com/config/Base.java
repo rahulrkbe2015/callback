@@ -18,7 +18,7 @@ public class Base {
 	
 	public static WebDriver driver;
 	
-	
+	//select browser
 	public static void initialisation() throws IOException
 	{
 		switch(Utilities.getPropertiesFileValue("browser"))
