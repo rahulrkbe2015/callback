@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="123154" started-at="2021-11-23T05:52:28Z" finished-at="2021-11-23T05:54:31Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="123154" started-at="2021-11-23T05:52:28Z" finished-at="2021-11-23T05:54:31Z">
+      <class name="com.tests.ContactDetailsPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tests.ContactDetailsPageTest@5ad851c9]" name="setUp" is-config="true" duration-ms="13273" started-at="2021-11-23T05:53:25Z" finished-at="2021-11-23T05:53:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ContactDetailsPageLoadingTest()[pri:0, instance:com.tests.ContactDetailsPageTest@5ad851c9]" name="ContactDetailsPageLoadingTest" duration-ms="15040" started-at="2021-11-23T05:53:38Z" finished-at="2021-11-23T05:53:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ContactDetailsPageLoadingTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tests.ContactDetailsPageTest@5ad851c9]" name="tearDown" is-config="true" duration-ms="620" started-at="2021-11-23T05:53:54Z" finished-at="2021-11-23T05:53:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tests.ContactDetailsPageTest -->
+      <class name="com.tests.ThankYouPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tests.ThankYouPageTest@6156496]" name="setUp" is-config="true" duration-ms="13517" started-at="2021-11-23T05:53:54Z" finished-at="2021-11-23T05:54:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyThankYouPageLoadingTest()[pri:0, instance:com.tests.ThankYouPageTest@6156496]" name="verifyThankYouPageLoadingTest" duration-ms="21640" started-at="2021-11-23T05:54:08Z" finished-at="2021-11-23T05:54:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyThankYouPageLoadingTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tests.ThankYouPageTest@6156496]" name="tearDown" is-config="true" duration-ms="1596" started-at="2021-11-23T05:54:29Z" finished-at="2021-11-23T05:54:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tests.ThankYouPageTest -->
+      <class name="com.tests.ModelPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tests.ModelPageTest@2aa5fe93]" name="setUp" is-config="true" duration-ms="10963" started-at="2021-11-23T05:52:42Z" finished-at="2021-11-23T05:52:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyModelPageLoadingTest()[pri:0, instance:com.tests.ModelPageTest@2aa5fe93]" name="verifyModelPageLoadingTest" duration-ms="4446" started-at="2021-11-23T05:52:53Z" finished-at="2021-11-23T05:52:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyModelPageLoadingTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tests.ModelPageTest@2aa5fe93]" name="tearDown" is-config="true" duration-ms="629" started-at="2021-11-23T05:52:57Z" finished-at="2021-11-23T05:52:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tests.ModelPageTest -->
+      <class name="com.tests.PostcodePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tests.PostcodePageTest@5c1a8622]" name="setUp" is-config="true" duration-ms="10988" started-at="2021-11-23T05:52:58Z" finished-at="2021-11-23T05:53:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyPostcodePageLoadingTest()[pri:0, instance:com.tests.PostcodePageTest@5c1a8622]" name="verifyPostcodePageLoadingTest" duration-ms="14663" started-at="2021-11-23T05:53:09Z" finished-at="2021-11-23T05:53:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPostcodePageLoadingTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tests.PostcodePageTest@5c1a8622]" name="tearDown" is-config="true" duration-ms="1789" started-at="2021-11-23T05:53:23Z" finished-at="2021-11-23T05:53:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tests.PostcodePageTest -->
+      <class name="com.tests.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tests.HomePageTest@3b2cf7ab]" name="setUp" is-config="true" duration-ms="13340" started-at="2021-11-23T05:52:28Z" finished-at="2021-11-23T05:52:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="homePageLoadingTest()[pri:0, instance:com.tests.HomePageTest@3b2cf7ab]" name="homePageLoadingTest" duration-ms="169" started-at="2021-11-23T05:52:41Z" finished-at="2021-11-23T05:52:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageLoadingTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tests.HomePageTest@3b2cf7ab]" name="tearDown" is-config="true" duration-ms="413" started-at="2021-11-23T05:52:41Z" finished-at="2021-11-23T05:52:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tests.HomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
